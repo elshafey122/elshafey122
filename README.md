@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**elshafey122/elshafey122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* Backend Developer specializing in .NET
+* Experienced with C#, ASP.NET Core, SQL Server, Entity Framework Core
+* Interested in Backend Development, System Design, Databases, and Cloud Technologies
+* Frontend web development (JavaScript, TypeScript, Angular)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+### Backend
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* REST APIs
+* gRPC
+* SignalR
+
+### Databases
+
+* SQL Server
+* PostgreSQL
+
+### Frontend
+
+* Angular
+* JavaScript
+* HTML
+* CSS
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Kubernates
+* Azure devops
+* Azure
+* CI/CD
+
+## Currently Learning
+* SQL Server DBA Concepts
+* System Design
+* devops and cloud concepts
+
+## Contact Me
+
+* LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/ahmed-mohamed-127391219/)
+* Email: [your@email.com](aelshafey135@gmail.com)
+
