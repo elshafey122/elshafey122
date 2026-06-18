@@ -27,7 +27,6 @@ Git - Github - Docker - Kubernates - Azure devops - Azure - CI/CD - Linx - Postm
 SQL Server DBA Concepts -  System Design - Devops & CLoud - Azure 
 
 ## Contact Me
-[![LinkedIn](https://www.linkedin.com/in/ahmed-mohamed-127391219/)
 * LinkedIn: (https://www.linkedin.com/in/ahmed-mohamed-127391219/)
 * Email:    (aelshafey135@gmail.com)
 
