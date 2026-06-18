@@ -10,25 +10,23 @@
 
 ## Tech Stack
 
-### Backend                            ### Frontend                      ### Database               ## Tools          
-* C#                                   * Angular                         * Sqlserver                * Git
-* ASP.NET Core                         * JavaScript                      * mongoDb                  * GitHub
-* Entity Framework Core                * HTML                                                       * Docker
-* REST APIs                            * CSS                                                        * Kubernates
-* gRPC                                                                                              * Azure devops
-* SignalR                                                                                           * Azure
-* Micorservices                                                                                     * CI/CD
-* GraphQl
-* Hanfire
+### Backend                                                                        
+* C#       * ASP.NET Core     * Entity Framework Core    * Linq   * REST APIs    * gRPC                                                  * SignalR  * Micorservices    * GraphQl    
+                                                                
+### Frontend
+* Angular  * JavaScript  * HTML  * CSS
+ 
+### Database 
+* Sqlserver  * mongoDb
+
+## Tools 
+* Git  * Github  * Docker  * Kubernates  * Azure devops  * Azure  * CI/CD  * Linx
 
 ## Currently Learning
-* SQL Server DBA Concepts
-* System Design
-* Devops and Cloud
-* Azure
+* SQL Server DBA Concepts  * System Design  * Devops & CLoud  * Azure 
 
 ## Contact Me
 
-* LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/ahmed-mohamed-127391219/)
-* Email: [your@email.com](aelshafey135@gmail.com)
+* LinkedIn: (https://www.linkedin.com/in/ahmed-mohamed-127391219/)
+* Email:    (aelshafey135@gmail.com)
 
