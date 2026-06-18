@@ -11,19 +11,19 @@
 ## Tech Stack
 
 ### Backend                                                                        
-* C#       * ASP.NET Core     * Entity Framework Core    * Linq   * REST APIs    * gRPC                                                  * SignalR  * Micorservices    * GraphQl    
+C# - ASP.NET Core - Entity Framework Core - Linq - REST APIs - gRPC - SignalR - Micorservices - GraphQl    
                                                                 
 ### Frontend
-* Angular  * JavaScript  * HTML  * CSS
+Angular - JavaScript - HTML - CSS
  
 ### Database 
-* Sqlserver  * mongoDb
+Sqlserver - mongoDb
 
 ## Tools 
-* Git  * Github  * Docker  * Kubernates  * Azure devops  * Azure  * CI/CD  * Linx
+Git - Github - Docker - Kubernates - Azure devops - Azure - CI/CD - Linx
 
 ## Currently Learning
-* SQL Server DBA Concepts  * System Design  * Devops & CLoud  * Azure 
+SQL Server DBA Concepts -  System Design - Devops & CLoud - Azure 
 
 ## Contact Me
 
