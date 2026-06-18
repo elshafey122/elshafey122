@@ -1,48 +1,31 @@
 # Hi, I'm Ahmed 👋
+# Software engineer
 
 ## About Me
-
 * Backend Developer specializing in .NET
 * Experienced with C#, ASP.NET Core, SQL Server, Entity Framework Core
 * Interested in Backend Development, System Design, Databases, and Cloud Technologies
 * Frontend web development (JavaScript, TypeScript, Angular)
+* Clean Architecture & Design patterns (Onion Architecture - Clean Architecture - Microservices)
 
 ## Tech Stack
-### Backend
 
-* C#
-* ASP.NET Core
-* Entity Framework Core
-* REST APIs
-* gRPC
-* SignalR
-
-### Databases
-
-* SQL Server
-* PostgreSQL
-
-### Frontend
-
-* Angular
-* JavaScript
-* HTML
-* CSS
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Kubernates
-* Azure devops
-* Azure
-* CI/CD
+### Backend                            ### Frontend                      ### Database               ## Tools          
+* C#                                   * Angular                         * Sqlserver                * Git
+* ASP.NET Core                         * JavaScript                      * mongoDb                  * GitHub
+* Entity Framework Core                * HTML                                                       * Docker
+* REST APIs                            * CSS                                                        * Kubernates
+* gRPC                                                                                              * Azure devops
+* SignalR                                                                                           * Azure
+* Micorservices                                                                                     * CI/CD
+* GraphQl
+* Hanfire
 
 ## Currently Learning
 * SQL Server DBA Concepts
 * System Design
-* devops and cloud concepts
+* Devops and Cloud
+* Azure
 
 ## Contact Me
 
